@@ -1,8 +1,8 @@
 {
   "manifest_version": 2,
-  "name": "ThemeBeta.com",
+  "name": "bluegray",
   "version": "1",
-  "description": "",
+  "description": "bluegray Theme",
   "theme": {
     "images": {
       "theme_frame": "images\/theme_frame.png",
