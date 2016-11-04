@@ -1,5 +1,8 @@
 {
   "manifest_version": 2,
+  "name": "ThemeBeta.com",
+  "version": "1",
+  "description": "",
   "theme": {
     "images": {
       "theme_frame": "images\/theme_frame.png",
@@ -15,6 +18,8 @@
       "tab_background_text": [221, 221, 221],
       "bookmark_text": [255, 255, 255],
       "ntp_background": [255, 255, 255],
+      "ntp_section": [207, 221, 192],
+      "ntp_link": [36, 70, 0],
       "ntp_text": [0, 0, 0],
       "button_background": [62, 62, 62, 0.7]
     },
@@ -25,8 +30,5 @@
       "ntp_background_alignment": "bottom",
       "ntp_background_repeat": "no-repeat"
     }
-  },
-  "name": "ThemeBeta.com",
-  "version": "1",
-  "description": ""
+  }
 }
