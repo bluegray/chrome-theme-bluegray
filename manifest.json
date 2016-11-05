@@ -5,29 +5,29 @@
   "description": "bluegray Theme",
   "theme": {
     "images": {
-      "theme_frame": "images\/theme_frame.png",
-      "theme_toolbar": "images\/theme_toolbar.png",
-      "theme_tab_background": "images\/theme_tab_background.png",
-      "theme_ntp_background": "images\/theme_ntp_background.jpeg",
-      "theme_frame_overlay": "images\/theme_frame_overlay.png"
+      "theme_frame": "images/theme_frame.png",
+      "theme_frame_overlay": "images/theme_frame_overlay.png",
+      "theme_toolbar": "images/theme_toolbar.png",
+      "theme_ntp_background": "images/theme_ntp_background.jpg",
+      "theme_tab_background": "images/theme_tab_background.png"
     },
     "colors": {
       "frame": [63, 83, 110],
       "toolbar": [0, 0, 0],
       "tab_text": [255, 255, 255],
-      "tab_background_text": [221, 221, 221],
+      "tab_background_text": [210, 210, 210],
       "bookmark_text": [255, 255, 255],
       "ntp_background": [255, 255, 255],
       "ntp_section": [207, 221, 192],
-      "ntp_link": [36, 70, 0],
+      "ntp_link": [36, 70, 255],
       "ntp_text": [0, 0, 0],
-      "button_background": [62, 62, 62, 0.7]
+      "button_background": [255, 62, 62, 0.7]
     },
     "tints": {
-      "buttons": [0.59, 1, 0.89]
+      "buttons": [0.59, 1, 0.85]
     },
     "properties": {
-      "ntp_background_alignment": "bottom",
+      "ntp_background_alignment": "top",
       "ntp_background_repeat": "no-repeat"
     }
   }
