@@ -1,5 +1,5 @@
 {
-  "manifest_version": 2,
+  "manifest_version": 1,
   "name": "bluegray",
   "version": "1",
   "description": "bluegray Theme",
@@ -28,7 +28,7 @@
     },
     "properties": {
       "ntp_background_alignment": "top",
-      "ntp_background_repeat": "no-repeat"
+      "ntp_background_repeat": "repeat-x"
     }
   }
 }
