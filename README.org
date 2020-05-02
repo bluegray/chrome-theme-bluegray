@@ -1,0 +1,3 @@
+#bluegray Chrome theme
+## Guide
+https://github.com/Patrick-Batenburg/GoogleChromeThemeCreationGuide#theme_frame_overlay
